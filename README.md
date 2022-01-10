@@ -5,12 +5,14 @@ This little project is not a project per se, rather a list of notes from over 21
 The highlights are only from his take on the topic of startups.
 There is a lot of useful information for people wanting to build something of their own.  
 
+The list includes stuff that seemed somewhat interesting from my perspective. 
+A lot of great advice and insights are contained in each essay and I urge everyone to read them themselves.
+
+Some other resources are also mentioned on my 👉 [blogpost](https://mihanovak1024.com/startups/startup-resources/).
+
 #### Ordering
 The list is ordered chronologically and does not group similar topics together.
 Might do that in the future, who knows :)
-
-The list includes stuff that seemed somewhat interesting from my perspective. 
-A lot of great advice and insights are contained in each essay and I urge everyone to read them themselves.
 
 ### 39. How to Start a Startup ([link](http://www.paulgraham.com/start.html)) - _March 2005_   
 - Actually, startup ideas are not million dollar ideas,   
