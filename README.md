@@ -5,6 +5,8 @@ This little project is not a project per se, rather a list of notes from over 21
 The highlights are only from his take on the topic of startups.
 There is a lot of useful information for people wanting to build something of their own.  
 
+Some other resources are also mentioned on my 👉 [blogpost](https://mihanovak1024.com/startups/startup-resources/).
+
 #### Ordering
 The list is ordered chronologically and does not group similar topics together.
 Might do that in the future, who knows :)
