@@ -1,9 +1,11 @@
 
 # Paul Graham's Startup Essay Highlights
 This little project is not a project per se, rather a list of notes from over 210 Paul Graham's essays that can be seen on [his website](www.paulgraham.com/articles.html).
+
 The highlights are only from his take on the topic of startups.
 There is a lot of useful information for people wanting to build something of their own.  
 
+#### Ordering
 The list is ordered chronologically and does not group similar topics together.
 Might do that in the future, who knows :)
 
@@ -128,7 +130,7 @@ Whereas if the founders are unknown and the idea is very novel,
 you might have to launch the thing and show that users loved it before VCs would be convinced.  
   
 ### 61. The Hardest Lessons for Startups to Learn ([link](http://www.paulgraham.com/startuplessons.html)) - _April 2006_  
-Of course, "release early" has a second component, without which it would be bad advice.  
+- Of course, "release early" has a second component, without which it would be bad advice.  
 If you're going to start with something that doesn't do much, you better improve it fast.   
 What I find myself repeating is "pump out features."   
 And this rule isn't just for the initial stages.   
@@ -251,8 +253,8 @@ The biggest mistake you can make is not to try hard enough.
 To the extent there's a secret to success, it's not to be in denial about that.  
   
 ### 73. Why to Not Not Start a Startup ([link](http://www.paulgraham.com/notnot.html)) - _March 2007_  
-- All the reasons you aren't starting a startup, and show why most (but not all) should be ignored:  
-1. Too Young  
+- All the reasons you aren't starting a startup, and why most (but not all) should be ignored:  
+1. Too young  
 2. Too inexperienced  
 3. Not determined enough  
 4. Not smart enough  
@@ -362,7 +364,7 @@ And if you just hang on, things will probably get better.
 6. Don't take rejections personally  
 7. Be able to downshift into consulting (if appropriate)  
 8. Avoid inexperienced investors  
-9. Know where you stan.  
+9. Know where you stand  
   
 ### 105. Startups in 13 Sentences ([link](http://www.paulgraham.com/13sentences.html)) - _February 2009_  
 - Paul Buchheit: it's better to make a few people really happy than to make a lot of people semi-happy.  
