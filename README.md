@@ -33,10 +33,6 @@ and refine it based on their reactions.
 not to maximize the amount of stock you retain.   
 So if you can trade stock for something that improves your odds, it's probably a smart move.  
   
-- The first thing you'll need is a few tens of thousands of dollars to pay your expenses while you develop a prototype.   
-This is called seed capital. Because so little money is involved,   
-raising seed capital is comparatively easy-- at least in the sense of getting a quick yes or no.  
-  
 - Usually angels are financially equivalent to founders.   
 They get the same kind of stock and get diluted the same amount in future rounds.   
 How much stock should they get? That depends on how ambitious you feel.   
@@ -77,13 +73,11 @@ and who wants to solve the money problem in one shot
 instead of getting paid gradually over a conventional working life.  
   
 ### 44. Why Smart People Have Bad Ideas ([link](http://www.paulgraham.com/bronze.html)) - _April 2005_  
-- One reason we had such a lame idea was that it was the first thing we thought of.  
-If you're going to spend years working on something,   
+- If you're going to spend years working on something,   
 you'd think it might be wise to spend at least a couple days considering different ideas,   
 instead of going with the first that comes into your head.  
   
-- At each point (a day, a week, a month) I thought I'd already put in so much time that it was too late to change.  
-So the biggest cause of bad ideas is the still life effect: you come up with a random idea, plunge into it,   
+- The biggest cause of bad ideas is the still life effect: you come up with a random idea, plunge into it,   
 and then at each point (a day, a week, a month) feel you've put so much time into it that this must be the idea.  
   
 - The solution is at the other end: to realize that having invested time in something doesn't make it good.  
@@ -99,11 +93,11 @@ The articles are full of descriptions of problems that need to be solved.
 just as it's easier to make a living playing at weddings than by selling recordings.   
 But the margins are greater on products.  
   
-### 51.﻿Ideas for Startups ([link](http://www.paulgraham.com/ideas.html)) - _October 2005_  
+### 51.﻿ Ideas for Startups ([link](http://www.paulgraham.com/ideas.html)) - _October 2005_  
 - Trevor Blackwell presents the following recipe for a startup:   
 "Watch people who have money to spend, see what they're wasting their time on,   
 cook up a solution, and try selling it to them.   
-It's surprising how small a problem can be and still provide a profitable market for a solution..  
+It's surprising how small a problem can be and still provide a profitable market for a solution". 
   
 - The fact is, most startups end up nothing like the initial idea.   
 It would be closer to the truth to say the main value of your initial idea is that,   
@@ -119,9 +113,6 @@ I went to visit my family twice. Otherwise I just worked.
   
 - The reason is that investors need to get their capital back.   
 They'll only consider companies that have an exit strategy—meaning companies that could get bought or go public.  
-  
-- Another concept we need to introduce now is valuation.   
-When someone buys shares in a company, that implicitly establishes a value for it.  
   
 - So when do you approach VCs? When you can convince them.   
 If the founders have impressive resumes and the idea isn't hard to understand,   
@@ -458,7 +449,7 @@ Which means you can use growth like a compass to make almost every decision you 
 (a) make something lots of people want, and   
 (b) reach and serve all those people.  
   
-- Whereas if you want to start a startup, you're probably going to have to think of something fairly novel.   
+- If you want to start a startup, you're probably going to have to think of something fairly novel.   
 A startup has to make something it can deliver to a large market,   
 and ideas of that type are so valuable that all the obvious ones are already taken.  
   
